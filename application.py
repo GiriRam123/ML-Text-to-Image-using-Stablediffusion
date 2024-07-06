@@ -1,5 +1,4 @@
 import tkinter as tk
-
 import customtkinter as ctk
 import torch
 from diffusers import StableDiffusionPipeline
